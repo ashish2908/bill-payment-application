@@ -1,0 +1,1 @@
+INSERT INTO BILLER (id, mothly_bill, balance) VALUES (1, 50, 0), (2, 70, 0), (3, 30, 0), (4, 40, 0), (5, 20, 0), (6, 25, 0), (7, 35, 0), (8, 95, 0);
